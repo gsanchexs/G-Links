@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto G-Links" src=".github/preview.png" width="100%">
+  <img alt="projeto G-Links" src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -40,7 +40,7 @@ O GLinks é um agregador de links para usar como cartão de visitas online.
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📄 Licença
 
 Esse projeto está sob a licença MIT.
 
